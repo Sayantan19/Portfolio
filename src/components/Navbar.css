@@ -1,0 +1,10 @@
+#navbar{
+    background: #000000;
+    color: #ffffff;
+}
+
+#menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

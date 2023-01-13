@@ -1,0 +1,33 @@
+
+.reveal2 {
+    position: relative;
+    transform: translateX(50px);
+    opacity: 0;
+    transition: 1s all ease;
+}
+
+.reveal2.active {
+    transform: translateX(0px);
+    opacity: 1;
+}
+
+ul{
+    padding: 0px;
+}
+
+@media screen and (max-width: 768px) {
+    .reveal2{
+        transform: translateX(0px);
+    }
+}
+
+#education{
+    border-bottom: 2.5px solid white;
+    border-top: 2.5px solid black;
+    
+}
+
+#experience{
+    border-bottom: 2.5px solid white;
+    border-top: 2.5px solid black;
+}
