@@ -1,12 +1,12 @@
 import React from 'react';
-import video from '../components/media/bg.mp4';
+import video from '../components/media/bg.gif';
 import './Jumbotron.css';
 
 
 export default function Jumbotron() {
     return (
         <section id="bgcomp">
-            <video src={video} id="vid" autoPlay loop muted />
+            <img src={video} id="vid"/>
             <div className="container" id="bgcomp2">
                 <h2 id="line1">Hi there! I am <span id="Name">Sayantan Bose</span>.</h2>
                 <h1 id="line2">I am a Full Stack Developer.</h1>
