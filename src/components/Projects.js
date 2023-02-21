@@ -30,30 +30,30 @@ export default function Projects() {
                 </div>
                 <div className="text-light row gy-4 row-cols-1 row-cols-md-2 row-cols-xl-2">
                     <div className="col reveal reveal-md">
-                        <div><img className="rounded img-fluid d-block w-100 h-25 fit-cover" id="pic" src={prj1} />
+                        <div><img className="rounded img-fluid d-block w-100 h-25 fit-cover" id="pic" src={prj1} alt="Bosean Interio" />
                             <div className="py-4">
                                 <h4 className='text-center'>Bosean Interio</h4>
                                 <p>This is a website which I built for my parents' business.</p>
                                 <div className="container">
                                     <ul>
-                                        <li>Stack used: MERN stack</li>
-                                        <li>Deployment done on Azure Cloud Services</li>
-                                        <li>Website Link: <a target="_blank" href="https://boseaninterio.azurewebsites.net/" id="link" >https://boseaninterio.azurewebsites.net/</a></li>
+                                        <li>Frameworks used: React.js (Frontend), Express.js, Node.js (Backend)</li>
+                                        <li>Database used: MongoDB</li>
+                                        <li>Website Link: <a target="_blank" href="https://boseaninterio.azurewebsites.net/" id="link" rel='noreferrer'>https://boseaninterio.azurewebsites.net/</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div className="col reveal2">
-                        <div><img className="rounded img-fluid d-block w-100 h-25 fit-cover" id="pic" src={prj2} />
+                        <div><img className="rounded img-fluid d-block w-100 h-25 fit-cover" id="pic" src={prj2} alt="Quiz Page" />
                             <div className="py-4">
                                 <h4 className='text-center'>Quiz Web Application</h4>
                                 <p>This is a quiz web application which runs on a LAN network.</p>
                                 <div className="container">
                                     <ul>
-                                        <li>Microframework used: Flask</li>
+                                        <li>Frameworks used: React.js (Frontend), Express.js, Node.js (Backend)</li>
                                         <li>Database used: MongoDB</li>
-                                        <li>Github Repo Link: <a target="_blank" href="https://github.com/Sayantan19/Quiz-Page" id="link" >https://github.com/Sayantan19/Quiz-Page</a></li>
+                                        <li>Github Repo Link: <a target="_blank" href="https://github.com/Sayantan19/Quiz-MERN" id="link" rel='noreferrer'>https://github.com/Sayantan19/Quiz-MERN</a></li>
                                     </ul>
                                 </div>
                             </div>
