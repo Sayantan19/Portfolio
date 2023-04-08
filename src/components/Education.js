@@ -19,7 +19,7 @@ export default function Education() {
     window.addEventListener("scroll", reveal2);
     return (
         <>
-            <section className='w-100 d-flex flex-wrap flex-md-nowrap flex-direction-col flex-direction-md-row justify-content-center'>
+            <section className='d-flex flex-wrap flex-md-nowrap flex-direction-col flex-direction-md-row'>
                 <div id="education" className='bg-black p-4'>
                     <div className="container reveal2">
                         <h2 className="text-center text-md-start text-uppercase heading text-light">Academic Background</h2>

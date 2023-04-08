@@ -38,7 +38,7 @@ export default function Projects() {
                                     <ul>
                                         <li>Frameworks used: React.js (Frontend), Express.js, Node.js (Backend)</li>
                                         <li>Database used: MongoDB</li>
-                                        <li>Website Link: <a target="_blank" href="https://boseaninterio.azurewebsites.net/" id="link" rel='noreferrer'>https://boseaninterio.azurewebsites.net/</a></li>
+                                        <li>Website Link: <a target="_blank" href="https://boseaninterio.netlify.app/" id="link" rel='noreferrer'>https://boseaninterio.netlify.app/</a></li>
                                     </ul>
                                 </div>
                             </div>

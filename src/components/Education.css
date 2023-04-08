@@ -24,10 +24,11 @@ ul{
 #education{
     border-bottom: 2.5px solid white;
     border-top: 2.5px solid black;
-    
+    width: 40%;
 }
 
 #experience{
     border-bottom: 2.5px solid white;
     border-top: 2.5px solid black;
+    width:60%
 }
