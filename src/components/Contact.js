@@ -5,7 +5,7 @@ export default function Contact() {
         <>
             <section id="contact">
                 <div className="container my-4">
-                    <h2 className="text-uppercase heading text">Contact Me</h2>
+                    <h2 className="text-uppercase heading text-center">Contact Me</h2>
                     <div className="row">
                         <div className="col">
                             <ul className='list-unstyled'>
