@@ -30,15 +30,15 @@ export default function Projects() {
                 </div>
                 <div className="text-light row gy-4 row-cols-1 row-cols-md-2 row-cols-xl-2">
                     <div className="col reveal reveal-md">
-                        <div><img className="rounded img-fluid d-block w-100 h-25 fit-cover" id="pic" src={prj1} alt="Bosean Interio" />
+                        <div><img className="rounded img-fluid d-block w-100 h-25 fit-cover" id="pic" src={prj1} alt="IndoRailway" />
                             <div className="py-4">
-                                <h4 className='text-center'>Bosean Interio</h4>
-                                <p>This is a website which I built for my parents' business.</p>
+                                <h4 className='text-center'>IndoRailway</h4>
+                                <p>This is a Railway Reservation System.This is a collaborative project built as a part of our Software Development Project. My part in this project was to build the APIs.</p>
                                 <div className="container">
                                     <ul>
                                         <li>Frameworks used: React.js (Frontend), Express.js, Node.js (Backend)</li>
                                         <li>Database used: MongoDB</li>
-                                        <li>Website Link: <a target="_blank" href="https://boseaninterio.netlify.app/" id="link" rel='noreferrer'>https://boseaninterio.netlify.app/</a></li>
+                                        <li>Github Repo Link: <a target="_blank" href="https://github.com/Sayantan19/Railway-Reservation-Project" id="link" rel='noreferrer'>https://github.com/Sayantan19/Railway-Reservation-Project</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -48,7 +48,7 @@ export default function Projects() {
                         <div><img className="rounded img-fluid d-block w-100 h-25 fit-cover" id="pic" src={prj2} alt="Quiz Page" />
                             <div className="py-4">
                                 <h4 className='text-center'>Quiz Web Application</h4>
-                                <p>This is a quiz web application which runs on a LAN network.</p>
+                                <p>This is a quiz web application which runs on a LAN network. This project made me the finalist of the <b>MLH Fellowship</b> Program</p>
                                 <div className="container">
                                     <ul>
                                         <li>Frameworks used: React.js (Frontend), Express.js, Node.js (Backend)</li>
