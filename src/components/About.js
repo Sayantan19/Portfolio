@@ -26,7 +26,7 @@ export default function About() {
                     <div className="col-md-6 text-center text-md-start d-flex d-sm-flex d-md-flex justify-content-center align-items-center justify-content-md-start align-items-md-center justify-content-xl-center" >
                         <div>
                             <h2 className="text-uppercase heading">About Me</h2>
-                            <p className="my-3" id="abt-txt">I am an aspiring Full-Stack Developer with a keen interest in the latest technological and entrepreneural advancements around the world. <br />Exploring new ideas and coding is my passion and trying to understand people's requirements is my forte!<br />I have experience in C, C++, Java, Python and Javascript and I am interested in exploring the domain of Machine Learning.</p>
+                            <p className="my-3" id="abt-txt">I am an aspiring Full-Stack Developer with a keen interest in the latest technological and entrepreneural advancements around the world.<br />Exploring new ideas and coding is my passion and trying to understand people's requirements is my forte!<br />I have experience in C, C++, Java, Python and Javascript and I am interested in exploring the domain of Machine Learning.</p>
                         </div>
                     </div>
                     <div className="col-md-6 d-flex justify-content-end align-items-center">

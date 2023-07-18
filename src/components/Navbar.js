@@ -26,8 +26,8 @@ export default function Navbar() {
                     <ul className="navbar-nav me-auto">
                         <li className="nav-item"><a className="nav-link active text-light text-center" href="/">HOME</a></li>
                         <li className="nav-item"><a className="nav-link active text-light text-center" href="#about">ABOUT ME</a></li>
-                        <li className="nav-item"><a className="nav-link active text-light text-center" href="/#education">ACADEMIC BACKGROUND</a></li>
                         <li className="nav-item"><a className="nav-link active text-light text-center" href="/#experience">EXPERIENCE</a></li>
+                        <li className="nav-item"><a className="nav-link active text-light text-center" href="/#education">ACADEMIC BACKGROUND</a></li>
                         <li className="nav-item"><a className="nav-link active text-light text-center" href="/#projects">PROJECTS</a></li>
                         <li className="nav-item"><a className="nav-link active text-light text-center" href="/#contact">CONTACT ME</a></li>
                     </ul>
